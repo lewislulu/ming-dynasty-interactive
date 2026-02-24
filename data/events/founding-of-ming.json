@@ -1,0 +1,22 @@
+{
+  "id": "founding-of-ming",
+  "name": "明朝建立",
+  "year": 1368,
+  "month": 1,
+  "characters": ["zhu-yuanzhang", "ma-empress", "liu-bowen", "xu-da"],
+  "importance": "major",
+  "narrative": "events/founding-of-ming.md",
+  "relatedEvents": ["battle-of-lake-poyang", "northern-expedition"],
+  "scenes": [
+    {
+      "id": "enthronement",
+      "title": "登基大典",
+      "hasDialogue": true
+    },
+    {
+      "id": "founding-system",
+      "title": "开国定制",
+      "hasDialogue": true
+    }
+  ]
+}

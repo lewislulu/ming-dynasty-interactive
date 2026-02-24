@@ -1,0 +1,22 @@
+{
+  "id": "wanli-emperor",
+  "name": "朱翊钧",
+  "courtesy": "万历帝",
+  "birth": 1563,
+  "death": 1620,
+  "color": "#d4a853",
+  "portrait": "",
+  "bio": "明朝第十三位皇帝，年号万历，在位四十八年，是明朝在位时间最长的皇帝。十岁即位，前十年由张居正辅政，国力蒸蒸日上。张居正死后亲政，最初也颇有作为，发动了万历三大征（宁夏之役、播州之役、援朝抗倭），均取得胜利。但因「国本之争」（立太子问题）与朝臣对立，逐渐怠政，长达近三十年不上朝、不批奏疏、不补官缺。他嗜好奢侈，横征暴敛，矿税太监遍布全国，民怨沸腾。万历怠政是明朝由盛转衰的重要转折点，后人评「明之亡，实亡于万历」。",
+  "activeRange": [1572, 1620],
+  "tags": ["万历帝", "怠政三十年", "实亡于万历"],
+  "personalEvents": [
+    { "year": 1572, "title": "十岁即位", "description": "隆庆帝驾崩，朱翊钧即位为万历帝", "type": "milestone" },
+    { "year": 1582, "title": "张居正去世", "description": "首辅张居正病逝，万历帝开始亲政", "type": "turning-point" },
+    { "year": 1584, "title": "清算张居正", "description": "下令抄没张居正家产，清算其改革政策", "type": "turning-point" },
+    { "year": 1592, "title": "万历三大征", "description": "发动宁夏之役、播州之役、援朝抗倭三大征", "type": "milestone" },
+    { "year": 1587, "title": "开始怠政", "description": "因立太子问题与朝臣对立，开始消极怠政", "type": "turning-point" },
+    { "year": 1615, "title": "国本之争结束", "description": "立储之争持续数十年，最终立长子为太子", "type": "anecdote" },
+    { "year": 1619, "title": "萨尔浒惨败", "description": "明军在萨尔浒之战中被后金军队重创", "type": "turning-point" },
+    { "year": 1620, "title": "驾崩", "description": "万历帝驾崩，在位四十八年", "type": "turning-point" }
+  ]
+}

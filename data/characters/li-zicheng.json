@@ -1,0 +1,21 @@
+{
+  "id": "li-zicheng",
+  "name": "李自成",
+  "courtesy": "号闯王",
+  "birth": 1606,
+  "death": 1645,
+  "color": "#d35400",
+  "portrait": "",
+  "bio": "明末农民起义领袖，陕西米脂人。原为驿卒，崇祯朝裁撤驿站后失业，遂投奔农民起义军。他英勇善战，逐渐成为起义军首领，号「闯王」。他提出「均田免赋」的口号，深受饥民拥护。1643年在西安建立大顺政权，次年率军东征，一路势如破竹，于1644年三月攻入北京，推翻明朝。但他入京后军纪败坏，追赃助饷，失去人心。在山海关之战中被吴三桂与清军联军击败，随后一路败退。1645年在湖北九宫山遇害（一说出家为僧），大顺政权旋即覆灭。",
+  "activeRange": [1629, 1645],
+  "tags": ["闯王", "均田免赋", "大顺皇帝"],
+  "personalEvents": [
+    { "year": 1630, "title": "投奔起义军", "description": "因驿站被裁而失业，投奔农民起义军", "type": "turning-point" },
+    { "year": 1636, "title": "被推为闯王", "description": "在起义军中崭露头角，被推举为闯王", "type": "milestone" },
+    { "year": 1640, "title": "进军河南", "description": "率军进入河南，提出「均田免赋」口号", "type": "milestone" },
+    { "year": 1643, "title": "建立大顺政权", "description": "在西安建立大顺政权，称大顺王", "type": "milestone" },
+    { "year": 1644, "title": "攻入北京", "description": "率军攻入北京，推翻明朝统治", "type": "milestone" },
+    { "year": 1644, "title": "山海关之败", "description": "在山海关被吴三桂与清军联军击败", "type": "turning-point" },
+    { "year": 1645, "title": "遇害身亡", "description": "在湖北九宫山遇害，一说出家为僧", "type": "turning-point" }
+  ]
+}

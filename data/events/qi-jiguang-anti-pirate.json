@@ -1,0 +1,14 @@
+{
+  "id": "qi-jiguang-anti-pirate",
+  "name": "戚继光抗倭",
+  "year": 1561,
+  "month": 5,
+  "characters": ["qi-jiguang"],
+  "importance": "major",
+  "narrative": "events/qi-jiguang-anti-pirate.md",
+  "relatedEvents": ["jiajing-wokou", "zhang-juzheng-reform"],
+  "scenes": [
+    { "id": "qi-anti-pirate-scene1", "title": "义乌练兵", "hasDialogue": true },
+    { "id": "qi-anti-pirate-scene2", "title": "台州九捷", "hasDialogue": true }
+  ]
+}

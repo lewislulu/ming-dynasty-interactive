@@ -1,0 +1,22 @@
+{
+  "id": "zhu-yuanzhang-joins-army",
+  "name": "朱元璋投军",
+  "year": 1352,
+  "month": 2,
+  "characters": ["zhu-yuanzhang", "ma-empress"],
+  "importance": "major",
+  "narrative": "events/zhu-yuanzhang-joins-army.md",
+  "relatedEvents": ["red-turban-rebellion", "battle-of-lake-poyang"],
+  "scenes": [
+    {
+      "id": "temple-decision",
+      "title": "皇觉寺中的抉择",
+      "hasDialogue": true
+    },
+    {
+      "id": "haozhou-gates",
+      "title": "濠州城下",
+      "hasDialogue": true
+    }
+  ]
+}

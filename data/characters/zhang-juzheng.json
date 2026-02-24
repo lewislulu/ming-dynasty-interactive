@@ -1,0 +1,21 @@
+{
+  "id": "zhang-juzheng",
+  "name": "张居正",
+  "courtesy": "字叔大，号太岳",
+  "birth": 1525,
+  "death": 1582,
+  "color": "#8e44ad",
+  "portrait": "",
+  "bio": "明代最杰出的政治家和改革家，湖广江陵人。他是中国历史上少有的在不改朝换代情况下推行全面改革的政治家。嘉靖二十六年进士，隆庆六年出任内阁首辅，辅佐年幼的万历帝。在位十年间，他推行「考成法」整顿吏治，推行「一条鞭法」改革赋税，清丈全国土地，裁减冗员，整饬边防。在他的治理下，国库充盈，边疆安宁，明朝出现了短暂的中兴局面。1582年病逝后，万历帝迅速清算其家族，抄家削爵，其改革也大多被废除。",
+  "activeRange": [1563, 1582],
+  "tags": ["内阁首辅", "改革家", "一条鞭法"],
+  "personalEvents": [
+    { "year": 1547, "title": "进士及第", "description": "嘉靖二十六年考中进士，开始政治生涯", "type": "milestone" },
+    { "year": 1567, "title": "入阁", "description": "进入内阁，参与朝政决策", "type": "milestone" },
+    { "year": 1572, "title": "出任首辅", "description": "隆庆六年出任内阁首辅，开始主导改革", "type": "turning-point" },
+    { "year": 1573, "title": "推行考成法", "description": "实施考成法，整顿官僚体系，严格考核官员政绩", "type": "milestone" },
+    { "year": 1578, "title": "清丈全国土地", "description": "在全国范围内清丈土地，打击隐田逃税", "type": "milestone" },
+    { "year": 1580, "title": "推行一条鞭法", "description": "在全国推行一条鞭法，简化赋税制度", "type": "milestone" },
+    { "year": 1582, "title": "病逝", "description": "因积劳成疾病逝，死后遭万历帝清算", "type": "turning-point" }
+  ]
+}

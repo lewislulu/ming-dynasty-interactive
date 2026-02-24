@@ -1,0 +1,14 @@
+{
+  "id": "zhang-juzheng-reform",
+  "name": "张居正改革",
+  "year": 1572,
+  "month": 7,
+  "characters": ["zhang-juzheng", "wanli-emperor"],
+  "importance": "major",
+  "narrative": "events/zhang-juzheng-reform.md",
+  "relatedEvents": ["qi-jiguang-anti-pirate", "wanli-three-campaigns"],
+  "scenes": [
+    { "id": "zhang-reform-scene1", "title": "辅政幼帝", "hasDialogue": true },
+    { "id": "zhang-reform-scene2", "title": "推行新法", "hasDialogue": true }
+  ]
+}

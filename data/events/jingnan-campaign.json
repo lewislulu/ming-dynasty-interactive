@@ -1,0 +1,27 @@
+{
+  "id": "jingnan-campaign",
+  "name": "靖难之役",
+  "year": 1399,
+  "month": 7,
+  "characters": ["zhu-di"],
+  "importance": "major",
+  "narrative": "events/jingnan-campaign.md",
+  "relatedEvents": ["lanyu-case"],
+  "scenes": [
+    {
+      "id": "yan-rebellion",
+      "title": "燕王起兵",
+      "hasDialogue": true
+    },
+    {
+      "id": "raid-nanjing",
+      "title": "奇袭南京",
+      "hasDialogue": true
+    },
+    {
+      "id": "jianwen-mystery",
+      "title": "建文帝之谜",
+      "hasDialogue": true
+    }
+  ]
+}

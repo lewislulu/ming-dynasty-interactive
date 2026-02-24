@@ -1,0 +1,62 @@
+{
+  "id": "zhu-yuanzhang",
+  "name": "朱元璋",
+  "courtesy": "字国瑞，号洪武",
+  "birth": 1328,
+  "death": 1398,
+  "color": "#e74c3c",
+  "portrait": "",
+  "bio": "明太祖，中国历史上唯一从乞丐出身的皇帝。幼时家贫，父母兄长相继饿死，曾入皇觉寺为僧。后投奔红巾军，凭借卓越的军事才能和政治智慧，先后消灭陈友谅、张士诚等割据势力，北伐灭元，于1368年建立大明王朝。在位期间废除丞相制度，加强中央集权，推行卫所制度，重农抑商。晚年多疑嗜杀，大兴文字狱，胡惟庸案、蓝玉案株连数万人。但他制定的制度框架影响了整个明朝二百七十六年。",
+  "activeRange": [1344, 1398],
+  "tags": ["开国皇帝", "洪武帝", "布衣天子"],
+  "personalEvents": [
+    {
+      "year": 1344,
+      "title": "父母饿死",
+      "description": "家中遭遇大旱和瘟疫，父母兄长相继去世，朱元璋孤苦无依，入皇觉寺为僧",
+      "type": "turning-point"
+    },
+    {
+      "year": 1352,
+      "title": "投奔红巾军",
+      "description": "离开寺庙，投奔濠州郭子兴的红巾军起义军，开始军旅生涯",
+      "type": "turning-point"
+    },
+    {
+      "year": 1356,
+      "title": "攻占集庆",
+      "description": "攻克集庆（今南京），改名应天府，建立根据地",
+      "type": "milestone"
+    },
+    {
+      "year": 1363,
+      "title": "鄱阳湖大捷",
+      "description": "在鄱阳湖大战中击败陈友谅六十万大军，奠定统一江南基础",
+      "type": "milestone"
+    },
+    {
+      "year": 1368,
+      "title": "建立明朝",
+      "description": "在应天府称帝，国号大明，年号洪武，正式建立明朝",
+      "type": "milestone"
+    },
+    {
+      "year": 1380,
+      "title": "废除丞相",
+      "description": "以胡惟庸案为契机，废除丞相制度，皇帝直接统领六部",
+      "type": "milestone"
+    },
+    {
+      "year": 1393,
+      "title": "蓝玉案",
+      "description": "大肆诛杀功臣，蓝玉案株连一万五千余人",
+      "type": "turning-point"
+    },
+    {
+      "year": 1398,
+      "title": "驾崩",
+      "description": "病逝于应天府，享年七十一岁，庙号太祖",
+      "type": "turning-point"
+    }
+  ]
+}

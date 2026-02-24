@@ -1,0 +1,14 @@
+{
+  "id": "wanli-three-campaigns",
+  "name": "万历三大征",
+  "year": 1592,
+  "month": 4,
+  "characters": ["wanli-emperor"],
+  "importance": "normal",
+  "narrative": "events/wanli-three-campaigns.md",
+  "relatedEvents": ["zhang-juzheng-reform", "battle-of-sarhu"],
+  "scenes": [
+    { "id": "wanli-campaigns-scene1", "title": "援朝出兵", "hasDialogue": true },
+    { "id": "wanli-campaigns-scene2", "title": "三征之后", "hasDialogue": true }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "jiajing-wokou",
+  "name": "嘉靖倭患",
+  "year": 1553,
+  "month": 6,
+  "characters": ["qi-jiguang"],
+  "importance": "normal",
+  "narrative": "events/jiajing-wokou.md",
+  "relatedEvents": ["qi-jiguang-anti-pirate"],
+  "scenes": [
+    { "id": "jiajing-wokou-scene1", "title": "海上风云", "hasDialogue": true },
+    { "id": "jiajing-wokou-scene2", "title": "百姓之苦", "hasDialogue": true }
+  ]
+}

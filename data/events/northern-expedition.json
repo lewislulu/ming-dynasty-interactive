@@ -1,0 +1,22 @@
+{
+  "id": "northern-expedition",
+  "name": "北伐灭元",
+  "year": 1368,
+  "month": 8,
+  "characters": ["xu-da", "zhu-yuanzhang"],
+  "importance": "major",
+  "narrative": "events/northern-expedition.md",
+  "relatedEvents": ["founding-of-ming", "hu-weiyong-case"],
+  "scenes": [
+    {
+      "id": "oath-ceremony",
+      "title": "誓师出征",
+      "hasDialogue": true
+    },
+    {
+      "id": "capture-dadu",
+      "title": "攻克大都",
+      "hasDialogue": true
+    }
+  ]
+}

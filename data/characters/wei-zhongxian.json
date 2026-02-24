@@ -1,0 +1,21 @@
+{
+  "id": "wei-zhongxian",
+  "name": "魏忠贤",
+  "courtesy": "原名李进忠",
+  "birth": 1568,
+  "death": 1627,
+  "color": "#7f8c8d",
+  "portrait": "",
+  "bio": "明末著名权宦，河间肃宁人。早年是市井无赖，因赌博欠债而自阉入宫。他善于钻营，攀附天启帝乳母客氏，在天启帝即位后迅速崛起。天启帝沉迷木匠活，将朝政交予魏忠贤。他自称「九千岁」，排斥异己，大肆迫害东林党人，杨涟、左光斗等忠臣惨遭杀害。全国各地为其建立生祠，权势熏天。崇祯帝即位后迅速将其铲除，魏忠贤在流放途中上吊自杀。他是明朝宦官专权的典型代表，其乱政加速了明朝的灭亡。",
+  "activeRange": [1612, 1627],
+  "tags": ["九千岁", "权宦", "阉党首领"],
+  "personalEvents": [
+    { "year": 1589, "title": "自阉入宫", "description": "因赌博欠债，自阉进入宫中为太监", "type": "turning-point" },
+    { "year": 1620, "title": "天启帝即位", "description": "天启帝即位，魏忠贤通过客氏接近皇帝", "type": "turning-point" },
+    { "year": 1623, "title": "掌控东厂", "description": "掌控东厂特务机构，开始大权独揽", "type": "milestone" },
+    { "year": 1624, "title": "迫害东林党", "description": "制造冤狱，残害杨涟、左光斗等东林党人", "type": "turning-point" },
+    { "year": 1626, "title": "各地建生祠", "description": "全国各地为其建立生祠，权势达到顶峰", "type": "anecdote" },
+    { "year": 1627, "title": "崇祯即位被贬", "description": "崇祯帝即位后立即将其贬往凤阳守陵", "type": "turning-point" },
+    { "year": 1627, "title": "上吊自杀", "description": "在流放途中自知难逃一死，上吊自杀", "type": "turning-point" }
+  ]
+}

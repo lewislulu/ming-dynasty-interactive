@@ -1,0 +1,22 @@
+{
+  "id": "tumu-crisis",
+  "name": "土木堡之变",
+  "year": 1449,
+  "month": 8,
+  "characters": ["yu-qian"],
+  "importance": "major",
+  "narrative": "events/tumu-crisis.md",
+  "relatedEvents": ["renxuan-golden-age", "defense-of-beijing"],
+  "scenes": [
+    {
+      "id": "eunuch-misleading",
+      "title": "宦官误国",
+      "hasDialogue": true
+    },
+    {
+      "id": "dusk-at-tumu",
+      "title": "土木堡的黄昏",
+      "hasDialogue": true
+    }
+  ]
+}

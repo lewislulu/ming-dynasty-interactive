@@ -1,0 +1,22 @@
+{
+  "id": "prince-ning-rebellion",
+  "name": "宁王之乱",
+  "year": 1519,
+  "month": 6,
+  "characters": ["wang-yangming"],
+  "importance": "normal",
+  "narrative": "events/prince-ning-rebellion.md",
+  "relatedEvents": ["yangming-enlightenment"],
+  "scenes": [
+    {
+      "id": "emergency-appointment",
+      "title": "临危受命",
+      "hasDialogue": true
+    },
+    {
+      "id": "poyang-lake-redux",
+      "title": "鄱阳湖再战",
+      "hasDialogue": true
+    }
+  ]
+}

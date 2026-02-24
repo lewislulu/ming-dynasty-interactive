@@ -1,0 +1,22 @@
+{
+  "id": "red-turban-rebellion",
+  "name": "红巾军起义",
+  "year": 1351,
+  "month": 5,
+  "characters": ["zhu-yuanzhang"],
+  "importance": "major",
+  "narrative": "events/red-turban-rebellion.md",
+  "relatedEvents": ["zhu-yuanzhang-joins-army"],
+  "scenes": [
+    {
+      "id": "yellow-river-conspiracy",
+      "title": "黄河工地密谋",
+      "hasDialogue": true
+    },
+    {
+      "id": "red-turbans-rise",
+      "title": "红巾飘扬",
+      "hasDialogue": true
+    }
+  ]
+}

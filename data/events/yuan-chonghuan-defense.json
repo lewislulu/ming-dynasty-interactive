@@ -1,0 +1,15 @@
+{
+  "id": "yuan-chonghuan-defense",
+  "name": "袁崇焕守辽",
+  "year": 1626,
+  "month": 1,
+  "characters": ["yuan-chonghuan", "chongzhen-emperor"],
+  "importance": "major",
+  "narrative": "events/yuan-chonghuan-defense.md",
+  "relatedEvents": ["wei-zhongxian-tyranny", "jiashen-incident"],
+  "scenes": [
+    { "id": "yuan-defense-scene1", "title": "宁远大捷", "hasDialogue": true },
+    { "id": "yuan-defense-scene2", "title": "千里驰援", "hasDialogue": true },
+    { "id": "yuan-defense-scene3", "title": "英雄末路", "hasDialogue": true }
+  ]
+}

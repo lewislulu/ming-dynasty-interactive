@@ -1,0 +1,121 @@
+{
+  "title": "大明王朝 · 兴亡三百年",
+  "timeRange": [1340, 1650],
+  "eras": [
+    { "name": "元末乱世", "start": 1340, "end": 1368 },
+    { "name": "洪武开国", "start": 1368, "end": 1398 },
+    { "name": "靖难与永乐", "start": 1398, "end": 1424 },
+    { "name": "仁宣之治", "start": 1424, "end": 1435 },
+    { "name": "中期动荡", "start": 1435, "end": 1505 },
+    { "name": "嘉靖时代", "start": 1505, "end": 1567 },
+    { "name": "万历与晚明", "start": 1567, "end": 1620 },
+    { "name": "明末覆灭", "start": 1620, "end": 1650 }
+  ],
+  "chapters": [
+    {
+      "id": "ch1",
+      "number": 1,
+      "title": "元末群雄",
+      "subtitle": "从红巾军到统一南方",
+      "timeRange": [1340, 1368],
+      "description": "元末天下大乱，红巾军起义席卷南方，朱元璋从一介乞丐崛起为雄踞一方的枭雄，先后消灭陈友谅、张士诚等对手。",
+      "characters": ["zhu-yuanzhang", "ma-empress", "liu-bowen", "xu-da"],
+      "events": ["red-turban-rebellion", "zhu-yuanzhang-joins-army", "battle-of-lake-poyang", "founding-of-ming"],
+      "coverColor": "#e74c3c"
+    },
+    {
+      "id": "ch2",
+      "number": 2,
+      "title": "洪武立国",
+      "subtitle": "建制与清洗",
+      "timeRange": [1368, 1398],
+      "description": "朱元璋建立明朝，定都南京。他大刀阔斧进行制度建设，同时发动大规模政治清洗，废除丞相制度，巩固皇权。",
+      "characters": ["zhu-yuanzhang", "ma-empress", "liu-bowen", "xu-da"],
+      "events": ["northern-expedition", "hu-weiyong-case", "lanyu-case"],
+      "coverColor": "#c0392b"
+    },
+    {
+      "id": "ch3",
+      "number": 3,
+      "title": "靖难之役",
+      "subtitle": "叔侄夺位",
+      "timeRange": [1398, 1402],
+      "description": "建文帝削藩引发燕王朱棣起兵造反，历时三年的靖难之役以朱棣攻破南京、登基为帝而告终。",
+      "characters": ["zhu-di"],
+      "events": ["jingnan-campaign"],
+      "coverColor": "#9b59b6"
+    },
+    {
+      "id": "ch4",
+      "number": 4,
+      "title": "永乐盛世",
+      "subtitle": "迁都与下西洋",
+      "timeRange": [1402, 1435],
+      "description": "朱棣迁都北京，营建紫禁城，派郑和七下西洋，开创了明朝最辉煌的时代。仁宗、宣宗继承大统，开创仁宣之治。",
+      "characters": ["zhu-di", "zheng-he"],
+      "events": ["zheng-he-voyages", "capital-to-beijing", "renxuan-golden-age"],
+      "coverColor": "#1abc9c"
+    },
+    {
+      "id": "ch5",
+      "number": 5,
+      "title": "土木之变",
+      "subtitle": "皇帝被俘与北京保卫战",
+      "timeRange": [1435, 1464],
+      "description": "明英宗轻率亲征瓦剌，在土木堡全军覆没、被俘。于谦临危受命，成功保卫北京，但最终在英宗复辟后被冤杀。",
+      "characters": ["yu-qian"],
+      "events": ["tumu-crisis", "defense-of-beijing", "duomen-incident"],
+      "coverColor": "#2ecc71"
+    },
+    {
+      "id": "ch6",
+      "number": 6,
+      "title": "心学崛起与抗倭",
+      "subtitle": "王阳明悟道与戚继光平倭",
+      "timeRange": [1500, 1570],
+      "description": "王阳明在贬谪中悟道创立心学，又以文人之身平定宁王叛乱。嘉靖年间倭患猖獗，戚继光练兵抗倭，扫清东南。",
+      "characters": ["wang-yangming", "qi-jiguang"],
+      "events": ["yangming-enlightenment", "prince-ning-rebellion", "jiajing-wokou", "qi-jiguang-anti-pirate"],
+      "coverColor": "#f39c12"
+    },
+    {
+      "id": "ch7",
+      "number": 7,
+      "title": "张居正改革",
+      "subtitle": "中兴之梦与万历怠政",
+      "timeRange": [1567, 1620],
+      "description": "张居正以首辅之权推行一条鞭法与考成法，使明朝一度中兴。但万历帝亲政后怠政三十年，萨尔浒之败标志后金崛起。",
+      "characters": ["zhang-juzheng", "wanli-emperor"],
+      "events": ["zhang-juzheng-reform", "wanli-three-campaigns", "battle-of-sarhu"],
+      "coverColor": "#8e44ad"
+    },
+    {
+      "id": "ch8",
+      "number": 8,
+      "title": "天启崇祯与覆灭",
+      "subtitle": "从阉党乱政到甲申之变",
+      "timeRange": [1620, 1650],
+      "description": "魏忠贤专权祸国，崇祯帝虽力图振作却回天乏术。李自成攻破北京，崇祯自缢煤山，大明王朝覆灭。",
+      "characters": ["wei-zhongxian", "yuan-chonghuan", "chongzhen-emperor", "li-zicheng"],
+      "events": ["wei-zhongxian-tyranny", "yuan-chonghuan-defense", "jiashen-incident"],
+      "coverColor": "#d35400"
+    }
+  ],
+  "characters": [
+    "zhu-yuanzhang", "ma-empress", "liu-bowen", "xu-da",
+    "zhu-di", "zheng-he", "yu-qian",
+    "wang-yangming", "qi-jiguang",
+    "zhang-juzheng", "wanli-emperor",
+    "wei-zhongxian", "yuan-chonghuan", "chongzhen-emperor", "li-zicheng"
+  ],
+  "events": [
+    "red-turban-rebellion", "zhu-yuanzhang-joins-army", "battle-of-lake-poyang", "founding-of-ming",
+    "northern-expedition", "hu-weiyong-case", "lanyu-case",
+    "jingnan-campaign",
+    "zheng-he-voyages", "capital-to-beijing", "renxuan-golden-age",
+    "tumu-crisis", "defense-of-beijing", "duomen-incident",
+    "yangming-enlightenment", "prince-ning-rebellion", "jiajing-wokou", "qi-jiguang-anti-pirate",
+    "zhang-juzheng-reform", "wanli-three-campaigns", "battle-of-sarhu",
+    "wei-zhongxian-tyranny", "yuan-chonghuan-defense", "jiashen-incident"
+  ]
+}

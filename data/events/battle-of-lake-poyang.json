@@ -1,0 +1,27 @@
+{
+  "id": "battle-of-lake-poyang",
+  "name": "鄱阳湖之战",
+  "year": 1363,
+  "month": 8,
+  "characters": ["zhu-yuanzhang", "liu-bowen", "xu-da"],
+  "importance": "major",
+  "narrative": "events/battle-of-lake-poyang.md",
+  "relatedEvents": ["zhu-yuanzhang-joins-army", "founding-of-ming"],
+  "scenes": [
+    {
+      "id": "war-council",
+      "title": "战前军议",
+      "hasDialogue": true
+    },
+    {
+      "id": "burning-ships",
+      "title": "火烧连营",
+      "hasDialogue": true
+    },
+    {
+      "id": "lake-victory",
+      "title": "湖上决胜",
+      "hasDialogue": true
+    }
+  ]
+}

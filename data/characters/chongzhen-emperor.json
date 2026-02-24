@@ -1,0 +1,21 @@
+{
+  "id": "chongzhen-emperor",
+  "name": "朱由检",
+  "courtesy": "崇祯帝",
+  "birth": 1611,
+  "death": 1644,
+  "color": "#c0392b",
+  "portrait": "",
+  "bio": "明朝最后一位皇帝，年号崇祯。天启帝病死后以藩王身份继位，即位之初铲除魏忠贤阉党，朝野为之一振。他勤于政事，励精图治，但为人刚愎自用、猜忌多疑，在位十七年换了五十位内阁大学士、十四位兵部尚书，杀或逼死总督七人、巡抚十一人。面对内有李自成、张献忠农民起义，外有后金（清）铁骑压境的困局，他无力回天。内忧外患交织之下，1644年李自成攻入北京，崇祯在煤山（景山）自缢殉国，留下「朕非亡国之君，臣皆亡国之臣」的悲叹。",
+  "activeRange": [1627, 1644],
+  "tags": ["末代皇帝", "煤山殉国", "勤政而亡"],
+  "personalEvents": [
+    { "year": 1627, "title": "即位", "description": "天启帝病逝，信王朱由检即位为崇祯帝", "type": "milestone" },
+    { "year": 1627, "title": "铲除魏忠贤", "description": "即位后迅速铲除魏忠贤阉党势力", "type": "milestone" },
+    { "year": 1630, "title": "杀袁崇焕", "description": "以通敌罪名杀害辽东督师袁崇焕", "type": "turning-point" },
+    { "year": 1636, "title": "皇太极称帝改国号清", "description": "后金改国号为大清，皇太极称帝", "type": "turning-point" },
+    { "year": 1640, "title": "大旱加瘟疫", "description": "全国大旱，加之瘟疫流行，民不聊生", "type": "turning-point" },
+    { "year": 1643, "title": "李自成建大顺", "description": "李自成在西安建立大顺政权", "type": "turning-point" },
+    { "year": 1644, "title": "煤山自缢", "description": "李自成攻入北京，崇祯帝在煤山自缢殉国", "type": "turning-point" }
+  ]
+}

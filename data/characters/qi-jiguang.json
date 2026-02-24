@@ -1,0 +1,22 @@
+{
+  "id": "qi-jiguang",
+  "name": "戚继光",
+  "courtesy": "字元敬，号南塘",
+  "birth": 1528,
+  "death": 1588,
+  "color": "#e67e22",
+  "portrait": "",
+  "bio": "明代杰出的军事家、抗倭名将。山东蓬莱人，出身将门世家。嘉靖年间，东南沿海倭寇猖獗，戚继光受命组建「戚家军」，以严格的训练和创新的战术（鸳鸯阵）闻名。他先后在台州、仙游等地大破倭寇，基本肃清了东南沿海的倭患。后调任蓟镇总兵，修筑长城、训练骑兵，镇守北疆十六年，使蒙古不敢犯边。他著有《纪效新书》《练兵实纪》等兵书，是中国军事史上的重要著作。晚年因张居正被清算而受到牵连，贫病交加而终。",
+  "activeRange": [1544, 1588],
+  "tags": ["抗倭名将", "戚家军", "军事家"],
+  "personalEvents": [
+    { "year": 1544, "title": "袭父职入伍", "description": "戚继光承袭父职，开始军旅生涯", "type": "milestone" },
+    { "year": 1555, "title": "调任浙江抗倭", "description": "受命调往浙江沿海地区抗击倭寇", "type": "turning-point" },
+    { "year": 1559, "title": "组建戚家军", "description": "在义乌招募农民和矿工，组建著名的戚家军", "type": "milestone" },
+    { "year": 1561, "title": "台州大捷", "description": "在台州九战九捷，歼灭倭寇主力", "type": "milestone" },
+    { "year": 1563, "title": "平定福建倭患", "description": "率军进入福建，基本肃清东南沿海倭患", "type": "milestone" },
+    { "year": 1568, "title": "调任蓟镇总兵", "description": "调任蓟镇总兵，镇守北疆抵御蒙古", "type": "milestone" },
+    { "year": 1583, "title": "受张居正案牵连", "description": "因与张居正关系密切而受到牵连，被罢官", "type": "turning-point" },
+    { "year": 1588, "title": "贫病而终", "description": "在贫困和疾病中去世，享年六十", "type": "turning-point" }
+  ]
+}

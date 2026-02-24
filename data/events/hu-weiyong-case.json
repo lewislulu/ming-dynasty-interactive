@@ -1,0 +1,22 @@
+{
+  "id": "hu-weiyong-case",
+  "name": "胡惟庸案",
+  "year": 1380,
+  "month": 1,
+  "characters": ["zhu-yuanzhang"],
+  "importance": "major",
+  "narrative": "events/hu-weiyong-case.md",
+  "relatedEvents": ["northern-expedition", "lanyu-case"],
+  "scenes": [
+    {
+      "id": "chancellor-downfall",
+      "title": "丞相末路",
+      "hasDialogue": true
+    },
+    {
+      "id": "abolish-chancellor",
+      "title": "废相诏书",
+      "hasDialogue": true
+    }
+  ]
+}

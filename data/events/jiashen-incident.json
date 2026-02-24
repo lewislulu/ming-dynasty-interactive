@@ -1,0 +1,15 @@
+{
+  "id": "jiashen-incident",
+  "name": "甲申之变",
+  "year": 1644,
+  "month": 3,
+  "characters": ["chongzhen-emperor", "li-zicheng"],
+  "importance": "major",
+  "narrative": "events/jiashen-incident.md",
+  "relatedEvents": ["yuan-chonghuan-defense"],
+  "scenes": [
+    { "id": "jiashen-scene1", "title": "最后的早朝", "hasDialogue": true },
+    { "id": "jiashen-scene2", "title": "煤山殉国", "hasDialogue": true },
+    { "id": "jiashen-scene3", "title": "闯王入京", "hasDialogue": true }
+  ]
+}

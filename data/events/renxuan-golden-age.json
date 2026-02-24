@@ -1,0 +1,22 @@
+{
+  "id": "renxuan-golden-age",
+  "name": "仁宣之治",
+  "year": 1425,
+  "month": 6,
+  "characters": ["zhu-di"],
+  "importance": "normal",
+  "narrative": "events/renxuan-golden-age.md",
+  "relatedEvents": ["capital-to-beijing", "tumu-crisis"],
+  "scenes": [
+    {
+      "id": "benevolent-governance",
+      "title": "仁政惠民",
+      "hasDialogue": true
+    },
+    {
+      "id": "xuanzong-governance",
+      "title": "宣宗治世",
+      "hasDialogue": true
+    }
+  ]
+}

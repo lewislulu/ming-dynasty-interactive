@@ -1,0 +1,22 @@
+{
+  "id": "lanyu-case",
+  "name": "蓝玉案",
+  "year": 1393,
+  "month": 2,
+  "characters": ["zhu-yuanzhang"],
+  "importance": "normal",
+  "narrative": "events/lanyu-case.md",
+  "relatedEvents": ["hu-weiyong-case"],
+  "scenes": [
+    {
+      "id": "generals-fear",
+      "title": "功臣的恐惧",
+      "hasDialogue": true
+    },
+    {
+      "id": "purge-huaixi",
+      "title": "血洗淮西",
+      "hasDialogue": true
+    }
+  ]
+}

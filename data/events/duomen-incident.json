@@ -1,0 +1,22 @@
+{
+  "id": "duomen-incident",
+  "name": "夺门之变",
+  "year": 1457,
+  "month": 1,
+  "characters": ["yu-qian"],
+  "importance": "normal",
+  "narrative": "events/duomen-incident.md",
+  "relatedEvents": ["defense-of-beijing"],
+  "scenes": [
+    {
+      "id": "south-palace-conspiracy",
+      "title": "南宫密谋",
+      "hasDialogue": true
+    },
+    {
+      "id": "death-of-loyal-minister",
+      "title": "忠臣之死",
+      "hasDialogue": true
+    }
+  ]
+}

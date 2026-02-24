@@ -1,0 +1,22 @@
+{
+  "id": "capital-to-beijing",
+  "name": "迁都北京",
+  "year": 1421,
+  "month": 1,
+  "characters": ["zhu-di"],
+  "importance": "major",
+  "narrative": "events/capital-to-beijing.md",
+  "relatedEvents": ["jingnan-campaign", "zheng-he-voyages"],
+  "scenes": [
+    {
+      "id": "forbidden-city-completion",
+      "title": "紫禁城落成",
+      "hasDialogue": true
+    },
+    {
+      "id": "emperor-guards-frontier",
+      "title": "天子守国门",
+      "hasDialogue": true
+    }
+  ]
+}

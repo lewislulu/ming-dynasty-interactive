@@ -1,0 +1,22 @@
+{
+  "id": "defense-of-beijing",
+  "name": "北京保卫战",
+  "year": 1449,
+  "month": 10,
+  "characters": ["yu-qian"],
+  "importance": "major",
+  "narrative": "events/defense-of-beijing.md",
+  "relatedEvents": ["tumu-crisis", "duomen-incident"],
+  "scenes": [
+    {
+      "id": "advocating-resistance",
+      "title": "力主抗战",
+      "hasDialogue": true
+    },
+    {
+      "id": "decisive-battle-deshengmen",
+      "title": "德胜门外的决战",
+      "hasDialogue": true
+    }
+  ]
+}

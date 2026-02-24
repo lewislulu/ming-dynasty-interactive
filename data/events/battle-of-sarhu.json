@@ -1,0 +1,14 @@
+{
+  "id": "battle-of-sarhu",
+  "name": "萨尔浒之战",
+  "year": 1619,
+  "month": 3,
+  "characters": ["wanli-emperor"],
+  "importance": "major",
+  "narrative": "events/battle-of-sarhu.md",
+  "relatedEvents": ["wanli-three-campaigns", "wei-zhongxian-tyranny"],
+  "scenes": [
+    { "id": "sarhu-scene1", "title": "分进合击之误", "hasDialogue": true },
+    { "id": "sarhu-scene2", "title": "后金崛起", "hasDialogue": true }
+  ]
+}

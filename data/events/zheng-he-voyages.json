@@ -1,0 +1,22 @@
+{
+  "id": "zheng-he-voyages",
+  "name": "郑和下西洋",
+  "year": 1405,
+  "month": 7,
+  "characters": ["zheng-he", "zhu-di"],
+  "importance": "major",
+  "narrative": "events/zheng-he-voyages.md",
+  "relatedEvents": ["capital-to-beijing"],
+  "scenes": [
+    {
+      "id": "treasure-fleet-departure",
+      "title": "宝船启航",
+      "hasDialogue": true
+    },
+    {
+      "id": "exotic-lands-diplomacy",
+      "title": "异域之交",
+      "hasDialogue": true
+    }
+  ]
+}

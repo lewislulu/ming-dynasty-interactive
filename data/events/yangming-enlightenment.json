@@ -1,0 +1,22 @@
+{
+  "id": "yangming-enlightenment",
+  "name": "龙场悟道",
+  "year": 1508,
+  "month": 3,
+  "characters": ["wang-yangming"],
+  "importance": "major",
+  "narrative": "events/yangming-enlightenment.md",
+  "relatedEvents": ["prince-ning-rebellion"],
+  "scenes": [
+    {
+      "id": "banished-to-longchang",
+      "title": "贬谪龙场",
+      "hasDialogue": true
+    },
+    {
+      "id": "enlightenment-in-stone-coffin",
+      "title": "石棺悟道",
+      "hasDialogue": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "wei-zhongxian-tyranny",
+  "name": "魏忠贤专权",
+  "year": 1624,
+  "month": 8,
+  "characters": ["wei-zhongxian"],
+  "importance": "normal",
+  "narrative": "events/wei-zhongxian-tyranny.md",
+  "relatedEvents": ["battle-of-sarhu", "yuan-chonghuan-defense"],
+  "scenes": [
+    { "id": "wei-tyranny-scene1", "title": "九千岁的朝堂", "hasDialogue": true },
+    { "id": "wei-tyranny-scene2", "title": "东林浩劫", "hasDialogue": true }
+  ]
+}

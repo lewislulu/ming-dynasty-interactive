@@ -1,0 +1,20 @@
+{
+  "id": "yuan-chonghuan",
+  "name": "袁崇焕",
+  "courtesy": "字元素，号自如",
+  "birth": 1584,
+  "death": 1630,
+  "color": "#27ae60",
+  "portrait": "",
+  "bio": "明末著名军事家，广东东莞人。万历四十七年进士。他主动请缨镇守辽东，以卓越的军事才能和坚定的意志抵御后金（清）入侵。在宁远之战中，他以凭城固守的战术击败努尔哈赤，这是明军对后金的第一次重大胜利。宁锦之战中再次击退皇太极。然而，1629年皇太极绕道入关进逼北京，袁崇焕千里驰援，却被崇祯帝以「通敌叛国」罪名逮捕。1630年被凌迟处死，京城百姓争食其肉——这是明朝末年最大的冤案之一，也深刻反映了崇祯帝的猜忌多疑。",
+  "activeRange": [1619, 1630],
+  "tags": ["辽东督师", "宁远大捷", "千古奇冤"],
+  "personalEvents": [
+    { "year": 1619, "title": "进士及第", "description": "万历四十七年考中进士，开始仕途", "type": "milestone" },
+    { "year": 1622, "title": "请缨守辽东", "description": "主动请缨镇守辽东，抵御后金入侵", "type": "turning-point" },
+    { "year": 1626, "title": "宁远大捷", "description": "在宁远之战中击败努尔哈赤，取得重大胜利", "type": "milestone" },
+    { "year": 1627, "title": "宁锦大捷", "description": "在宁锦之战中再次击退皇太极的进攻", "type": "milestone" },
+    { "year": 1629, "title": "千里驰援北京", "description": "皇太极绕道入关，袁崇焕率军千里驰援京师", "type": "milestone" },
+    { "year": 1630, "title": "含冤被杀", "description": "被崇祯帝以通敌罪名凌迟处死，制造千古奇冤", "type": "turning-point" }
+  ]
+}
