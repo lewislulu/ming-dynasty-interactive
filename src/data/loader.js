@@ -33,13 +33,13 @@ const SCENE_PREFIX = '场景';
 const characterModules = import.meta.glob('/data/characters/*.json', { eager: true });
 const eventModules = import.meta.glob('/data/events/*.json', { eager: true });
 const eventMarkdown = import.meta.glob('/data/events/*.md', { eager: true, query: '?raw', import: 'default' });
+import timelineConfig from '/data/timeline.json';
 
 /**
  * Load the master timeline configuration
  */
 export async function loadTimeline() {
-  const res = await fetch('/data/timeline.json');
-  return res.json();
+  return timelineConfig;
 }
 
 /**
